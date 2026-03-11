@@ -1,1 +1,3 @@
-# Database schemas and table definitions
+# Base model for all database tables
+class BaseModel:
+    pass
