@@ -1,1 +1,3 @@
 # List of project dependencies
+SQLAlchemy
+psycopg2-binary
